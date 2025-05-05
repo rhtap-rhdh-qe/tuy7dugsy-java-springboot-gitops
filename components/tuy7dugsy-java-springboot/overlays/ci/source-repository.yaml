@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tuy7dugsy-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tuy7dugsy-java-springboot
